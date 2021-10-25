@@ -1,9 +1,9 @@
 import 'bootstrap-icons/font/bootstrap-icons.css';
-import './App.css';
+import Clicker from './Clicker';
 
 function App() {
   return (
-   
+  <Clicker />
   );
 }
 
