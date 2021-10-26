@@ -15,7 +15,7 @@ const numDecrease = () => {
 
     return (
         <div className = 'container'>
-        <h1>Click Away!</h1>
+        <h1><h1>Click Away!</h1></h1>
         <h3>{num}</h3>
         <button className = 'btn btn-danger' onClick = {numDecrease}><i class="bi bi-dash-square"></i></button>
         <button className = 'btn btn-success' onClick = {numIncrease}><i class="bi bi-plus-square"></i></button>
